@@ -8,7 +8,8 @@
 
 Server starts the dialogue by saying Welcome to Server<br>
 and assigns a number to the server , then talking is done
-in usual manner. <br>
+in usual manner.
+
 The client can exit in following ways
 1.  Typing "exit"
 2.  Control-C
